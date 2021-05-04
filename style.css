@@ -1,0 +1,33 @@
+body{
+text-align: center;    
+background-color: aqua;
+}
+
+#cricket{
+ border-radius: 50%;
+    margin-bottom: 50px;
+    margin-top: 100px;
+    height: 300px
+}
+
+.shourya {
+ list-style: none;
+    font-family: fantasy;
+    position: absolute;
+    top: 10px;
+    right: 400px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links { 
+float: left;
+ color: aqua;
+padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 30px;
+    display: inline-block;
+    }
